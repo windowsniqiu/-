@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">极简准星</string>
+    <string name="overlay_service_title">极简准星悬浮窗运行中</string>
+    <string name="overlay_service_desc">点击返回应用调整，或在通知栏快速控制</string>
+    <string name="action_stop">关闭准星</string>
+    <string name="action_center">重置居中</string>
+    <string name="action_settings">打开设置</string>
+    <string name="notification_channel_name">准星常驻服务</string>
+    <string name="notification_channel_desc">保持悬浮准星在后台和游戏中流畅运行不被清理</string>
+</resources>

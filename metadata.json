@@ -1,0 +1,6 @@
+{
+  "name": "极简准星",
+  "description": "轻量纯净的准星辅助工具，支持多款战术准星样式、色彩透明度调节、像素级微调与极低内存悬浮窗，纯中文无广告。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
